@@ -13,7 +13,7 @@ import (
 	engineapi "github.com/docker/engine-api/client"
 	humanize "github.com/dustin/go-humanize"
 	"github.com/spf13/cobra"
-	"github.com/tonistiigi/buildcache"
+	"github.com/vikingco/buildcache"
 	"golang.org/x/crypto/ssh/terminal"
 	"golang.org/x/net/context"
 )
